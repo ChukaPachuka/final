@@ -53,9 +53,45 @@
 
   ![image](https://github.com/user-attachments/assets/c6e29fde-d4c3-44a1-b633-7d00e6101881)  
 
-  - настроила логирование в файл log:  
+- настроила логирование в файл log:  
 
-    ![image](https://github.com/user-attachments/assets/097dcfcf-d68b-4a96-aa5d-be36343d5361)
+  ![image](https://github.com/user-attachments/assets/097dcfcf-d68b-4a96-aa5d-be36343d5361)
+
+03 - Создание дашборда в Metabase  
+
+Что сделано:  
+
+- подключила базу данных marketplace к metabase:
+
+  ![image](https://github.com/user-attachments/assets/7189d4e8-c4a8-41f2-98af-36a3b3813c6c)  
+
+- написала SQL-запросы для построения визуализаций:
+
+  ![image](https://github.com/user-attachments/assets/244d7ff5-e65b-480f-af40-5ab6d03e36e2)
+
+  ![image](https://github.com/user-attachments/assets/7cff3cce-3693-4494-86d3-032aecb0d00d)
+
+  ![image](https://github.com/user-attachments/assets/b6d76cd1-bb95-43f7-b297-3c1fc873ca35)
+
+- собрала дашборд "Анализ продаж маркетплейса" (ссылка: http://158.160.166.108:3000/dashboard/1-analiz-prodazh-marketplejs?%25D0%25B4%25D0%25B8%25D0%25B0%25D0%25BF%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25BD_%25D0%25B4%25D0%25B0%25D1%2582=)
+
+  ![image](https://github.com/user-attachments/assets/19034ba8-c60f-43a6-9706-4da9e2319d14)
+
+  ![image](https://github.com/user-attachments/assets/2d4d274d-69de-41e4-9e9c-79fcf1d96bff)
+
+  ![image](https://github.com/user-attachments/assets/80ae580e-1dfe-4ceb-9aa6-4eb824f4cbb1)
+
+  ![image](https://github.com/user-attachments/assets/4273573d-5598-4d2b-a81e-5d4a211c73f9)
+
+
+
+
+
+- 
+
+
+
+- 
 
     
 
