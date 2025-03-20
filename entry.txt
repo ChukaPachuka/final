@@ -1,0 +1,11 @@
+PostgreSQL:
+Хост			158.160.166.108
+Порт			5433
+База данных		marketplace
+Пользователь	teacher
+Пароль			qweasd963 
+
+Metabase:
+http://158.160.166.108:3000/
+Почта			teacher@email.com
+Пароль			Y3re2pHWCu?b8g
